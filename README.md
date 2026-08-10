@@ -5,7 +5,9 @@ width="150"/>
 
 # Universidad Católica del Uruguay
 
-## Programación II
+## Facultad de Ingeniería y Tecnologías
+
+### Programación II
 
 # Desafío Git #2: Calculadora Colaborativa
 
