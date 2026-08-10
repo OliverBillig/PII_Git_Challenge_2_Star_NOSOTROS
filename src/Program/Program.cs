@@ -4,6 +4,7 @@ public static class Program
 {
     public static void Main()
     {
+        Console.WriteLine("Demo calculadora");
         Console.WriteLine(Addition.Add(4, 5));
         Console.WriteLine(Subtraction.Subtract(10, 1));
         Console.WriteLine(Multiplication.Multiply(3, 3));
