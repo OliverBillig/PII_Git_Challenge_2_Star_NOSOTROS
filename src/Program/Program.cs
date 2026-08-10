@@ -43,6 +43,6 @@ public class Division
 {
     public static double Divide(int a, int b)
     {
-        return (double)a / 0; // Error
+        return (double)a / b; // Error
     }
 }
