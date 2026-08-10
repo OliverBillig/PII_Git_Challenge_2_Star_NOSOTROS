@@ -46,3 +46,12 @@ public class Division
         return (double)a / b;
     }
 }
+
+public class Power
+{
+    public static int Squared(int a)
+    {
+        return a*a;
+    }
+
+}
